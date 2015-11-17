@@ -1,16 +1,12 @@
 # hapi-rethinkdb-init
 
-![npm](https://img.shields.io/npm/v/hapi-rethinkdb-init.svg) ![license](https://img.shields.io/npm/l/hapi-rethinkdb-init.svg) ![github-issues](https://img.shields.io/github/issues/g-div/hapi-rethinkdb-init.svg)
+![npm](https://img.shields.io/npm/v/hapi-rethinkdb-init.svg) ![license](https://img.shields.io/npm/l/hapi-rethinkdb-init.svg)
 
 A micro plugin that use rethinkdb-init to create databases, tables and indexes when your hapi server starts.
 
 ![nodei.co](https://nodei.co/npm/hapi-rethinkdb-init.png?downloads=true&downloadRank=true&stars=true)
 
 ![travis-status](https://img.shields.io/travis/g-div/hapi-rethinkdb-init.svg)
-![stars](https://img.shields.io/github/stars/g-div/hapi-rethinkdb-init.svg)
-![forks](https://img.shields.io/github/forks/g-div/hapi-rethinkdb-init.svg)
-
-![forks](https://img.shields.io/github/forks/g-div/hapi-rethinkdb-init.svg)
 
 ![](https://david-dm.org/g-div/hapi-rethinkdb-init/status.svg)
 ![](https://david-dm.org/g-div/hapi-rethinkdb-init/dev-status.svg)
