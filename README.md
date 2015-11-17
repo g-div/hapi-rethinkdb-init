@@ -1,12 +1,10 @@
 # hapi-rethinkdb-init
 
-![npm](https://img.shields.io/npm/v/hapi-rethinkdb-init.svg) ![license](https://img.shields.io/npm/l/hapi-rethinkdb-init.svg)
+![npm](https://img.shields.io/npm/v/hapi-rethinkdb-init.svg) ![travis-status](https://img.shields.io/travis/g-div/hapi-rethinkdb-init.svg)
 
 A micro plugin that use rethinkdb-init to create databases, tables and indexes when your hapi server starts.
 
 ![nodei.co](https://nodei.co/npm/hapi-rethinkdb-init.png?downloads=true&downloadRank=true&stars=true)
-
-![travis-status](https://img.shields.io/travis/g-div/hapi-rethinkdb-init.svg)
 
 ![](https://david-dm.org/g-div/hapi-rethinkdb-init/status.svg)
 ![](https://david-dm.org/g-div/hapi-rethinkdb-init/dev-status.svg)
@@ -52,10 +50,10 @@ Package | Version | Dev
 [node-readme](https://www.npmjs.com/package/node-readme) | ^0.1.9 | ✖
 [rethinkdb](https://www.npmjs.com/package/rethinkdb) | ^2.2.0 | ✖
 [rethinkdb-init](https://www.npmjs.com/package/rethinkdb-init) | 0.0.5 | ✖
-[babel](https://www.npmjs.com/package/babel) | ^5.2.6 | ✔
-[code](https://www.npmjs.com/package/code) | ^1.4.0 | ✔
+[babel-cli](https://www.npmjs.com/package/babel-cli) | ^6.1.18 | ✔
+[code](https://www.npmjs.com/package/code) | ^2.0.1 | ✔
 [hapi](https://www.npmjs.com/package/hapi) | ^11.1.1 | ✔
-[lab](https://www.npmjs.com/package/lab) | ^5.8.0 | ✔
+[lab](https://www.npmjs.com/package/lab) | ^7.3.0 | ✔
 [rethinkdb](https://www.npmjs.com/package/rethinkdb) | ^2.2.0 | ✔
 
 
