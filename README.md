@@ -50,9 +50,10 @@ Package | Version | Dev
 [node-readme](https://www.npmjs.com/package/node-readme) | ^0.1.9 | ✖
 [rethinkdb](https://www.npmjs.com/package/rethinkdb) | ^2.2.0 | ✖
 [rethinkdb-init](https://www.npmjs.com/package/rethinkdb-init) | 0.0.5 | ✖
-[babel-cli](https://www.npmjs.com/package/babel-cli) | ^6.1.18 | ✔
+[babel](https://www.npmjs.com/package/babel) | ^5.2.6 | ✔
 [code](https://www.npmjs.com/package/code) | ^2.0.1 | ✔
 [hapi](https://www.npmjs.com/package/hapi) | ^11.1.1 | ✔
+[hapi-rethinkdb](https://www.npmjs.com/package/hapi-rethinkdb) | ^2.0.1 | ✔
 [lab](https://www.npmjs.com/package/lab) | ^7.3.0 | ✔
 [rethinkdb](https://www.npmjs.com/package/rethinkdb) | ^2.2.0 | ✔
 

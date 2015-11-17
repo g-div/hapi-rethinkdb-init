@@ -11,9 +11,10 @@
   },
   "devDependencies": {
     "babel": "^5.2.6",
-    "code": "^1.4.0",
+    "code": "^2.0.1",
     "hapi": "^11.1.1",
-    "lab": "^5.8.0",
+    "hapi-rethinkdb": "^2.0.1",
+    "lab": "^7.3.0",
     "rethinkdb": "^2.2.0"
   },
   "peerDependencies": {
