@@ -1,7 +1,7 @@
 {
   "name": "hapi-rethinkdb-init",
   "author": "g-div",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A micro plugin that use rethinkdb-init to create databases, tables and indexes when your hapi server starts.",
   "dependencies": {
     "joi": "^7.0.0",
