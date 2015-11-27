@@ -46,14 +46,14 @@ server.register(require('hapi-rethinkdb'), function (err) {
 
 Package | Version | Dev
 --- |:---:|:---:
-[joi](https://www.npmjs.com/package/joi) | ^7.0.0 | ✖
+[joi](https://www.npmjs.com/package/joi) | ^7.0.1 | ✖
 [rethinkdb](https://www.npmjs.com/package/rethinkdb) | ^2.2.0 | ✖
 [rethinkdb-init](https://www.npmjs.com/package/rethinkdb-init) | 0.0.5 | ✖
 [babel-cli](https://www.npmjs.com/package/babel-cli) | ^6.2.0 | ✔
 [babel-core](https://www.npmjs.com/package/babel-core) | ^6.2.1 | ✔
 [babel-preset-es2015](https://www.npmjs.com/package/babel-preset-es2015) | ^6.1.18 | ✔
 [code](https://www.npmjs.com/package/code) | ^2.0.1 | ✔
-[hapi](https://www.npmjs.com/package/hapi) | ^11.1.1 | ✔
+[hapi](https://www.npmjs.com/package/hapi) | ^11.1.2 | ✔
 [hapi-rethinkdb](https://www.npmjs.com/package/hapi-rethinkdb) | ^2.0.1 | ✔
 [lab](https://www.npmjs.com/package/lab) | ^7.3.0 | ✔
 [node-readme](https://www.npmjs.com/package/node-readme) | ^0.1.9 | ✔
