@@ -6,7 +6,7 @@
   "dependencies": {
     "joi": "^9.0.4",
     "rethinkdb": "^2.2.0",
-    "rethinkdb-init": "0.2.1"
+    "rethinkdb-init": "0.2.2"
   },
   "devDependencies": {
     "babel-cli": "^6.2.0",
