@@ -1,5 +1,7 @@
 # hapi-rethinkdb-init
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/g-div/hapi-rethinkdb-init.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/hapi-rethinkdb-init.svg)](http://npmjs.org/package/hapi-rethinkdb-init) [![travis-status](https://img.shields.io/travis/g-div/hapi-rethinkdb-init.svg)](https://travis-ci.org/g-div/hapi-rethinkdb-init)
 
 A micro plugin that use rethinkdb-init to create databases, tables and indexes when your hapi server starts.
