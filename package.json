@@ -15,7 +15,7 @@
     "code": "^4.0.0",
     "hapi": "^16.1.0",
     "hapi-rethinkdb": "^2.0.1",
-    "lab": "^14.2.2",
+    "lab": "^15.4.0",
     "node-readme": "^0.1.9",
     "rethinkdb": "^2.2.0"
   },
